@@ -3,7 +3,7 @@ This example aims to run on an outdated Android Browser/Webview, because some us
 Especially, it will work when wrapped with Apache Cordova at Android 5.0 Emulator (Chrome 37). Yay! 🎉
 
 ## Motivation
-Don’t even get me started on build times, when the only environment, where you can reproduce your bugs is the Android Emulator...
+Don’t even get me started on build times, when the only environment, where you can reproduce your bugs is the Android Emulator... and, of course, compatibility!
 
 ## Installation
 `npm run install` to get all required node packages
