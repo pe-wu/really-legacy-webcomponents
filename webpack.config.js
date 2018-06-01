@@ -3,7 +3,7 @@ const htmlPlugin = require('html-webpack-plugin');
 const cleanPlugin = require('clean-webpack-plugin');
 const copyPlugin = require('copy-webpack-plugin');
 
-const DIST_DIR = 'dist_prod';
+const DIST_DIR = 'demo';
 const SRC_DIR = 'src';
 
 module.exports = {

@@ -6,7 +6,7 @@ Especially, it will work when wrapped with Apache Cordova at Android 5.0 Emulato
 Don’t even get me started on build times, when the only environment, where you can reproduce your bugs is the Android Emulator... and, of course, compatibility!
 
 ## Installation
-`npm run install` to get all required node packages
+`npm install` to get all required node packages
 
 ## Build
 The app uses [webpack](https://webpack.js.org/) to get the Polymer's [lit-element](https://github.com/Polymer/lit-element) running.
