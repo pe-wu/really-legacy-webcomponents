@@ -1,4 +1,4 @@
-# really legacy webcomponentsjs
+# really legacy webcomponents
 This example aims to run on an outdated Android Browser/Webview, because some users don't ever update their phones.
 Especially, it will work when wrapped with Apache Cordova at Android 5.0 Emulator (Chrome 37). Yay! 🎉
 
@@ -18,4 +18,6 @@ The app uses [webpack](https://webpack.js.org/) to get the Polymer's [lit-elemen
 
 User-agent of the reference emulator: `Mozilla/5.0 (Linux; Android 5.0.2; Android SDK built for x86_64 Build/LSY66K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36`
 
-The page probably works @ Android 4.4.4.  
+The page probably works @ Android 4.4.4.
+
+Keywords: webcomponents, webview, old, cordova, compatibility, lollipop 
